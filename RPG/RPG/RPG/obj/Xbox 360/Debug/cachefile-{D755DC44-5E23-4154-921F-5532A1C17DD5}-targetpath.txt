@@ -1,0 +1,4 @@
+Content\Texture\Background\00.xnb
+Content\Texture\MapCharacter\00.xnb
+Content\Texture\Tileset\00.xnb
+Content\Texture\Palette\00.xnb

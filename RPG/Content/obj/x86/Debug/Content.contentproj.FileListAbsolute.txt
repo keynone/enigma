@@ -1,0 +1,3 @@
+C:\Users\Kehnon\Dropbox\Factory-Eight\Projects\RPG\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\key\Dropbox\Factory-Eight\Projects\RPG\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\Content\obj\x86\Debug\ResolveAssemblyReference.cache

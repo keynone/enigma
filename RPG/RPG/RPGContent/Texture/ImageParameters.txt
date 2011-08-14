@@ -1,0 +1,7 @@
+Background 320x240
+BattleCharacter (16x24) 128x24
+BattleEffect (32x32) 128x32
+BattleEnemy 32x32, 48x48, 64x64
+Interface (16x16) 64x64
+MapCharacter (16x16) 64x64
+Tileset (16x16) 256x256

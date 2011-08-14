@@ -1,0 +1,3 @@
+Content\Map\00.xnb
+Content\Texture\Character\00.xnb
+Content\Texture\Tileset\00.xnb

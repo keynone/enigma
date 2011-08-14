@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Texture\Background\00.png</Source>
+      <Name>Texture\Background\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\Content\Texture\Background\00.xnb</Output>
+      <Time>2011-07-28T08:10:37.4191701-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\MapCharacter\00.png</Source>
+      <Name>Texture\MapCharacter\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\Content\Texture\MapCharacter\00.xnb</Output>
+      <Time>2011-07-28T08:13:19.5884456-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Tileset\00.png</Source>
+      <Name>Texture\Tileset\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\Content\Texture\Tileset\00.xnb</Output>
+      <Time>2011-08-01T23:00:47.8072217-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Palette\00.png</Source>
+      <Name>Texture\Palette\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\Content\Texture\Palette\00.xnb</Output>
+      <Time>2011-07-28T08:19:02.1260377-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPGContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPGContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-06-22T19:00:10.1777722-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

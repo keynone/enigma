@@ -1,0 +1,7 @@
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\RPG.exe
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\RPG.pdb
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Xbox 360\Debug\RPG.exe
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Xbox 360\Debug\RPG.pdb
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Xbox 360\Debug\Content\Texture\Tileset\00.xnb

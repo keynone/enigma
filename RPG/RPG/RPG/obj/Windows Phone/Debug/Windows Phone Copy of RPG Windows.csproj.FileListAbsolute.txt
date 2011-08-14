@@ -1,0 +1,16 @@
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\Content\Map\00.xnb
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\Content\Texture\Character\00.xnb
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\Content\Texture\Tileset\00.xnb
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\RPG.dll
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\RPG.pdb
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\xTilewp.dll
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Windows Phone\Debug\RPG.dll
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Windows Phone\Debug\RPG.pdb
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\bin\Windows Phone\Debug\RPG.xap
+C:\Users\Sean\Dropbox\Factory-Eight\Projects\RPG\RPG\RPG\obj\Windows Phone\Debug\XapCacheFile.xml
