@@ -63,7 +63,7 @@ namespace RPG
             AspectRatio.Y = (DesignResolution.Y / GlobalVariables.TileSize);
             TempResolution.X = DesignResolution.X;
             TempResolution.Y = DesignResolution.Y;
-
+            // made a change
             this.TargetElapsedTime = TimeSpan.FromSeconds(1.0 / 65);
 
             //Graphics Initialization
